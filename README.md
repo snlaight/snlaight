@@ -24,8 +24,10 @@ I am a _Full-Stack Developer_. Originally born in **Argentina**, I have lived & 
 <!-- - 📝 [CV/Resume]( "CV/Resume") -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snlaight&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
 ![Santis's github stats](https://github-readme-stats.vercel.app/api/?username=snlaight&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
+ </div>
 <br>
 
 ---
