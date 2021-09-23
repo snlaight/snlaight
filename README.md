@@ -16,9 +16,9 @@ _Full-Stack Developer_
 - 📄 I’m a **Full-Stack Developer** with a certification from <a href="https://letscoder.com">**Let's Coder**</a> (graduated in 2021)
 - 💻 Interested in front-end development, back-end development & full-stack development. 
 - 📫 How to reach me: [Email](mailto:snlaight10@gmail.com "snlaight10@gmail.com") || [LinkedIn](https://www.linkedin.com/in/santiago-laight/ "santiago-laight")
-- 🗺️ Located in Warsaw, Poland. 
+- 🇵🇱 Located in Warsaw, Poland. 
 - 😄 Open to full-time or part-time positions 
-Passionate about software development, writing code, and making things happen.
+- ⌨️Passionate about software development, writing code, and making things happen.
 <br>
 <!-- - 📝 [CV/Resume]( "CV/Resume") -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
