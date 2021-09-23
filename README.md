@@ -21,7 +21,8 @@ I am a _Full-Stack Developer_. Originally born in **Argentina**, I have lived & 
 - 😄   Open to full-time or part-time positions 
 - ⌨️  Passionate about software development, writing code, and making things happen.
 <br>
-<!-- - 📝 [CV/Resume]( "CV/Resume") -->
+
+📝 [CV/Resume](https://github.com/snlaight/snlaight/files/7216654/Santiago-LaightCV_2021.pdf)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snlaight&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
