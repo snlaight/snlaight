@@ -47,8 +47,11 @@ I am a _Full-Stack Developer_. Originally born in **Argentina**, I have lived & 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Mac OS](https://img.shields.io/badge/-Mac%20OS-black?style=flat-square&logo=apple&logoColor=blue)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss&logoColor=blue)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![ReactJS](https://img.shields.io/badge/-ReactJs-000000?logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js&logoColor=blue)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&logoColor=green)
+
 ---
 
 ### 🧔 What I do when I'm not writing code
