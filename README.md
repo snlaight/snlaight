@@ -41,7 +41,7 @@ Passionate about software development, writing code, and making things happen.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![PostgesSQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql&logoColor=blue)
+![PostgresSQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql&logoColor=blue)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Mac OS](https://img.shields.io/badge/-Mac%20OS-black?style=flat-square&logo=apple&logoColor=blue)
