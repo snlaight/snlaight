@@ -20,7 +20,7 @@ I am a _Full-Stack Developer_. Originally born in **Argentina**, I have lived & 
 - 🇵🇱   Located in Warsaw, Poland. 
 - 😄   Open to full-time or part-time positions 
 - ⌨️  Passionate about software development, writing code, and making things happen.
-- 📝   Download my[CV/Resume](https://github.com/snlaight/snlaight/files/7216654/Santiago-LaightCV_2021.pdf)
+- 📝   Download my [CV/Resume](https://github.com/snlaight/snlaight/files/7216654/Santiago-LaightCV_2021.pdf)
 <br>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
