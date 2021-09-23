@@ -33,7 +33,7 @@ Passionate about software development, writing code, and making things happen.
 <!-- table -->
 | Year | Title                                    | Technologies                           |
 |------|------------------------------------------|----------------------------------------|
-| 2021 | [Fidopt]() | ![ReactJS](https://img.shields.io/badge/-ReactJs-0000?logo=react) !|
+| 2021 | [Fidopt]() | ![ReactJS](https://img.shields.io/badge/-ReactJs-000000?logo=react)!|
 | 2021 | [GitHub](https://github.com/snlaight "Website") | ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) |
 
 
