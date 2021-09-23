@@ -58,7 +58,7 @@ I am a _Full-Stack Developer_. Originally born in **Argentina**, I have lived & 
 ---
 
 ### 🧔 What I do when I'm not writing code
-- ✨ **Interests**: Playing the guitar 🎸, walking my dog 🐕, spending time outside ☀️
+- ✨ **Interests**: Playing the guitar 🎸 && walking my dog 🐕, && spending time outside ☀️
 - 🎥 **Movies**: Star Wars collection, Mad Max: Fury Road, Avengers Universe
 - 📚 **Books**: Harry Potter Collection, Star Wars Expanded Universe
 
