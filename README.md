@@ -2,7 +2,7 @@
 **snlaight/snlaight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
 # 👋 Hi there, I’m [Santiago Laight](https://github.com/snlaight)
-_Full-Stack Developer_
+I am a _Full-Stack Developer_. Originally born in **Argentina**, I have lived & worked in over 12 countries. As an _autodidact_, I have taught myself many skills, including playing the guitar, and most recently, coding. Passionate about tech innovation. Quick learner. 
 <!-- https://shields.io/ -->
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/santiago-laight/">
