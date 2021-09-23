@@ -53,7 +53,7 @@ I am a _Full-Stack Developer_. Originally born in **Argentina**, I have lived & 
 ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-000000?logo=react)
-![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js&logoColor=blue)
+![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=next.js&logoColor=white)
 
 ---
 
