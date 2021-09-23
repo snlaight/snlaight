@@ -30,7 +30,7 @@ I am a <i>Full-Stack Developer</i>. Originally born in <strong>Argentina</strong
 <br>
 
 ---
-<!--
+
 ### 🖥️ Major Projects
 <!-- table -->
 | Year | Title                                    | Technologies                           |
