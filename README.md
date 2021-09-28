@@ -36,6 +36,7 @@ I am a <i>Full-Stack Developer</i>. Originally born in <strong>Argentina</strong
 | Year | Title                                    | Technologies                           |
 |------|------------------------------------------|----------------------------------------|
 | 2021 | [Fidopt]() | ![ReactJS](https://img.shields.io/badge/-ReactJs-000000?logo=react)![Node.JS](https://img.shields.io/badge/-Node.js-black?style=round-square&logo=node.js&logoColor=green) ![ExpressJS](https://img.shields.io/badge/-Express-black?style=round-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=round-square&logo=mongodb&logoColor=green) ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=round-square&logo=tailwindcss&logoColor=blue)|
+| 2021 | [FootyTable](https://github.com/snlaight/filtrando-equipos) | ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=round-square&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML5-black?style=round-square&logo=html5) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=round-square&logo=bootstrap)
 | 2021 | [GitHub](https://github.com/snlaight "Website") | ![HTML](https://img.shields.io/badge/-HTML5-black?style=round-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-black?style=round-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=round-square&logo=javascript) |
 
 
