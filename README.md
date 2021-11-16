@@ -57,6 +57,8 @@ I am a <i>Full-Stack Developer</i>. Originally born in <strong>Argentina</strong
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=round-square&logo=bootstrap)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-000000?logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=round-square&logo=next.js&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-000000?style=round-square&logo=cypress)
+![MOBX](https://img.shields.io/badge/-Mobx-000000?style=round-square&logo=mobx)
 
 ---
 
