@@ -22,7 +22,11 @@ I am a <i>Full-Stack Developer</i>. Originally born in <strong>Argentina</strong
 - 📝   Download my [CV/Resume](https://github.com/snlaight/snlaight/files/7216654/Santiago-LaightCV_2021.pdf)
 <br>
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsnlaight&labelColor=%23697689&countColor=%23d9e3f0)
+
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fsnlaight&label=VISITORS%20TODAY&labelColor=%23697689&countColor=%23d9e3f0)
+
+<!-- https://github.com/snlaight/github-readme-stats -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snlaight&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook)
 ![Santis's github stats](https://github-readme-stats.vercel.app/api/?username=snlaight&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) <!--&hide=contribs -->
