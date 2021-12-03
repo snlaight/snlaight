@@ -22,8 +22,6 @@ I am a <i>Full-Stack Developer</i>. Originally born in <strong>Argentina</strong
 - 📝   Download my [CV/Resume](https://github.com/snlaight/snlaight/files/7216654/Santiago-LaightCV_2021.pdf)
 <br>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsnlaight&labelColor=%23697689&countColor=%23d9e3f0)
-
 ![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fsnlaight&label=VISITORS%20TODAY&labelColor=%23697689&countColor=%23d9e3f0)
 
 <!-- https://github.com/snlaight/github-readme-stats -->
